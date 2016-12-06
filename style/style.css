@@ -1,0 +1,242 @@
+html{
+	background-image: url("earth.jpg");
+	background-repeat: no-repeat;
+}
+
+header{
+
+}
+
+h1{
+
+}
+
+.board{
+	border: 2px solid black;
+	position: relative;
+	width: 1045px;
+	height: 350px;
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 2%;
+}
+
+.slot{
+	position: absolute;
+	border: 2px black solid;
+	margin: 10px;
+	width: 200px;
+	height: 150px;
+	border-radius: 5%;
+}
+
+.slot:hover{
+	cursor: pointer;
+}
+
+.backSide{
+	background-color: grey;
+	background-image: url("questionB.jpg");
+}
+#slot1{
+	left: 0px;
+	top: 0px;
+}
+
+#slot2{
+	left: 205px;
+	top: 0px;
+}
+
+#slot3{
+	left: 410px;
+	top: 0px;
+}
+
+#slot4{
+	left: 615px;
+	top: 0px;
+}
+
+#slot5{
+	left: 820px;
+	top: 0px;
+}
+
+#slot6{
+	left: 0px;
+	top: 155px;
+}
+
+#slot7{
+	left: 205px;
+	top: 155px;
+}
+
+#slot8{
+	left: 410px;
+	top: 155px;
+}
+
+#slot9{
+	left: 615px;
+	top: 155px;
+}
+
+#slot10{
+	left: 820px;
+	top: 155px;
+}
+
+.poland{
+
+}
+
+.estonia{
+
+}
+
+.romania{
+
+}
+
+.bulgaria{
+
+}
+
+.ukraine{
+
+}
+
+
+#pol1{
+	border-radius: 5px 5px 0 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 75px;
+	background-color: #FFFFFF;
+}
+
+#pol2{
+	border-radius: 0px 0px 5px 5px;
+	position: absolute;
+	left: 0px;
+	top: 75px;
+	width: 200px;
+	height: 75px;
+	background-color: #D50F02;
+}
+
+#est1{
+	border-radius: 5px 5px 0 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+	background-color: #3A75C4;
+}
+
+#est2{
+	border-radius: 0px;
+	position: absolute;
+	left: 0px;
+	top: 50px;
+	width: 200px;
+	height: 50px;
+	background-color: #000000;
+}
+
+#est3{
+	border-radius: 0 0 5px 5px;
+	position: absolute;
+	left: 0px;
+	top: 100px;
+	width: 200px;
+	height: 50px;
+	background-color: #FFFFFF;
+}
+
+#rom1{
+	border-radius: 5px 0 0 5px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 66.6px;
+	height: 150px;
+	background-color: #002B7F;
+}
+
+#rom2{
+	border-radius: 0px;
+	position: absolute;
+	left: 66.6px;
+	top: 0px;
+	width: 66.6px;
+	height: 150px;
+	background-color: #FCD116;
+}
+
+#rom3{
+	border-radius: 0 5px 5px 0;
+	position: absolute;
+	left: 133.3px;
+	top: 0px;
+	width: 66.6px;
+	height: 150px;
+	background-color: #CE1126;
+}
+
+#bul1{
+	border-radius: 5px 5px 0 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+	background-color: #FFFFFF;
+}
+
+#bul2{
+	border-radius: 0px;
+	position: absolute;
+	left: 0px;
+	top: 50px;
+	width: 200px;
+	height: 50px;
+	background-color: #00966E;
+}
+
+#bul3{
+	border-radius: 0 0 5px 5px;
+	position: absolute;
+	left: 0px;
+	top: 100px;
+	width: 200px;
+	height: 50px;
+	background-color: #D62612;
+}
+
+#ukr1{
+	border-radius: 5px 5px 0 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 75px;
+	background-color: #2828FF;
+}
+
+#ukr2{
+	border-radius: 0 0 5px 5px;
+	position: absolute;
+	left: 0px;
+	top: 75px;
+	width: 200px;
+	height: 75px;
+	background-color: #FFFF00;
+}
+
+
+
